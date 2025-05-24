@@ -22,7 +22,6 @@ This project implements a fully functional distributed key-value store in C++ wi
 | File        | Description                                                          |
 | ----------- | -------------------------------------------------------------------- |
 | `main.cpp`  | Core logic including all subsystems and cluster demo                 |
-| `redis.cpp` | Supplementary module with parameter simulation and tuning (optional) |
 
 ---
 
